@@ -22,3 +22,18 @@ git branch revisao
 
 Instrução 7:
 git switch desenvolvimento
+
+Instrução 8:
+git add .
+git commit -m "Atualizando os arquivos de texto"
+
+Instrução 9:
+git switch revisao
+
+Instrução 10:
+git add .
+git commit -m "Alterado introducao e desenvolvimento .txt"
+
+Instrução 11:
+git switch desenvolvimento
+git merge revisao
