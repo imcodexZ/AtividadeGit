@@ -1,0 +1,4 @@
+desenvolvendo
+com 
+git 
+bash
