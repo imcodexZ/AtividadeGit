@@ -37,3 +37,21 @@ git commit -m "Alterado introducao e desenvolvimento .txt"
 Instrução 11:
 git switch desenvolvimento
 git merge revisao
+
+Instrução 13:
+git add .
+git commit -m "Conflitos resolvidos"
+
+Instrução 14:
+git log
+git log --oneline
+git log --graph --oneline --all
+git switch main
+git add .
+git commit -m "Adicionado prints dos logs"
+
+Instrução 15:
+git merge desenvolvimento
+git log --graph --oneline --all
+git add .
+git commit -m "Commit final, mesclado branchs e adicionado printfinal"
