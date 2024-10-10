@@ -1,0 +1,39 @@
+Instrução 1, 2:
+code .
+git config --global user.name "Henzo Munchen Maurer"
+git config --global user.email henzo.2021010272@aluno.iffar.edu.br
+touch comandos.txt
+
+Instrução 3: 
+git init
+
+Instrução 4:
+touch introducao.txt
+touch desenvolvimento.txt
+touch conclusao.txt
+
+Instrução 5:
+git add .
+git commit -m "Criado comandos, conclusao, desenvolvimento e introducao .txt"
+
+Instrução 6:
+git branch desenvolvimento
+git branch revisao
+
+Instrução 7:
+git switch desenvolvimento
+
+Instrução 8:
+git add .
+git commit -m "Atualizando os arquivos de texto"
+
+Instrução 9:
+git switch revisao
+
+Instrução 10:
+git add .
+git commit -m "Alterado introducao e desenvolvimento .txt"
+
+Instrução 11:
+git switch desenvolvimento
+git merge revisao
